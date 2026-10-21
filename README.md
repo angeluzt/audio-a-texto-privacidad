@@ -1,7 +1,7 @@
 # audio-a-texto-privacidad
 
 Política de privacidad pública de la app Android **Audio a Texto**
-(`com.angeluzt.audiototext`). Google Play pide una URL que cualquiera pueda
+(`com.angeluzt.audiototexto`). Google Play pide una URL que cualquiera pueda
 abrir; esta página es esa URL:
 
 **https://angeluzt.github.io/audio-a-texto-privacidad/**
